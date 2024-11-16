@@ -1,4 +1,4 @@
-# ABDULSALAM IBRAHEEM
+# PORTFOLIO
 
 Abdulsalam is a Data Scientist with a strong foundation in Engineering, statistical analysis,
 and algorithm development. I have hands-on experience in predictive modeling, data
