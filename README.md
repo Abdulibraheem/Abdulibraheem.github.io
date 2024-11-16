@@ -10,7 +10,7 @@ optimize performance.
 Technical Skills; Python | SQL | R | Power BI | Microsoft Office Suite
 
 # Education
-
+-----------------------
 University of the West of England, United Kingdom                                                                                                                                                                         
 MSc Data Science
 
