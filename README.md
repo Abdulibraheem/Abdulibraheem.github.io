@@ -7,7 +7,7 @@ actionable insights to support business decision-making. Demonstrated ability to
 cross-functional teams, design scalable models, and develop data-driven solutions to
 optimize performance.
 
-Technical Skills; Python | SQL | R | Power BI | Microsoft Office Suite
+Technical Skills; Python, SQL, R, Power BI, Microsoft Office Suite
 
 # Education
 -----------------------
