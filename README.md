@@ -13,8 +13,7 @@ optimize performance.
 University of the West of England, United Kingdom                                                                                                                                                                         
 MSc Data Science
 
-Near East University, Cyprus 
-
+Near East University, Cyprus                                                                                                                                                                                                
 BSc Mechanical Engineering
 
 # Projects
@@ -39,6 +38,7 @@ profitable alliances that drove business growth.
 Successfully engaged prospects through targeted cold calling campaigns, converting leads
 into long-term clients, and consistently surpassing sales targets.
 
+ 
 Client Experience Analyst;
 
 Created customer interactions weekly dashboard with Microsoft Excel and presented it to
