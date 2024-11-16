@@ -10,8 +10,7 @@ optimize performance.
 
 # Education
 
-University of the West of England, United Kingdom 
-
+University of the West of England, United Kingdom                                                                                                                                                                         
 MSc Data Science
 
 Near East University, Cyprus 
@@ -25,7 +24,7 @@ BSc Mechanical Engineering
 # Work Experience
 **Leatherback LTD UK**  
 
-Business Development Associate
+Business Development Associate;
 
 Served as an Account Manager and Onboarding Specialist for the UK and Canadian markets,
 fostering deals with prospective clients and guiding new customers through the onboarding
@@ -40,7 +39,7 @@ profitable alliances that drove business growth.
 Successfully engaged prospects through targeted cold calling campaigns, converting leads
 into long-term clients, and consistently surpassing sales targets.
 
-Client Experience Analyst
+Client Experience Analyst;
 
 Created customer interactions weekly dashboard with Microsoft Excel and presented it to
 the board.
