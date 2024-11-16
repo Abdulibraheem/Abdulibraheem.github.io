@@ -18,10 +18,11 @@ Near East University, Cyprus
 BSc Mechanical Engineering
 
 # Projects
-
+-----------------------
 # Blog Post
-
+-----------------------
 # Work Experience
+-----------------------
 **Leatherback LTD UK**  
 
 Business Development Associate;
